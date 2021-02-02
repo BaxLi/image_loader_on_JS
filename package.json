@@ -1,0 +1,27 @@
+{
+  "name": "image_loader_js",
+  "version": "1.0.0",
+  "description": "load images with preview",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaxLi/image_loader_on_JS.git"
+  },
+  "keywords": [
+    "JS",
+    "image",
+    "loader"
+  ],
+  "author": "BaxLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaxLi/image_loader_on_JS/issues"
+  },
+  "homepage": "https://github.com/BaxLi/image_loader_on_JS#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
